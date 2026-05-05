@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505124049596QNR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505124049W9D2XM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Alimentación saludable: La base de una vida sana.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª del Valle Martín Carmona</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777977367576</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moshtgwu-yoyerkjso</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moshtgwu-yoyerkjso</odePageId>
+      <odeBlockId>block-1776249411923-393yckplo</odeBlockId>
+      <blockName>Presentación y descripción del proyecto.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgwu-yoyerkjso</odePageId>
+          <odeBlockId>block-1776249411923-393yckplo</odeBlockId>
+          <odeIdeviceId>idevice-1776249411919-9ejflqlnx</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1776249411919-9ejflqlnx" title="" href="{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto (1)_page-0001 (1).jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto (1)_page-0001 (1).jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776249411919-9ejflqlnx","img_0":{"img":"{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto (1)_page-0001 (1).jpg","thumbnail":"{{context_path}}/content/resources/2.1. Comenzamos nuestro proyecto (1)_page-0001 (1).jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moshtgwx-of9u996dc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moshtgwx-of9u996dc</odePageId>
+      <odeBlockId>block-1777372579257-0kgft646l</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgwx-of9u996dc</odePageId>
+          <odeBlockId>block-1777372579257-0kgft646l</odeBlockId>
+          <odeIdeviceId>idevice-1777372579256-yabk29s8d</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777372579256-yabk29s8d" title="" href="{{context_path}}/content/resources/2.3 Licencias y seguridad, (3).jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.3 Licencias y seguridad, (3).jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777372579256-yabk29s8d","img_0":{"img":"{{context_path}}/content/resources/2.3 Licencias y seguridad, (3).jpg","thumbnail":"{{context_path}}/content/resources/2.3 Licencias y seguridad, (3).jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moshtgwy-p2sug3vdi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final que deberá elaborar el alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final que deberá elaborar el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final que deberá elaborar el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moshtgwy-p2sug3vdi</odePageId>
+      <odeBlockId>block-1777372910044-rw128so5a</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgwy-p2sug3vdi</odePageId>
+          <odeBlockId>block-1777372910044-rw128so5a</odeBlockId>
+          <odeIdeviceId>idevice-1777372910041-e21ii4ywj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola,  compañeros y compañeros: </p>
+<p><br />Las herramientas que utilizaré en el producto final de mi situación de aprendizaje para el alumnado de infantil, estarán siempre supervisadas y organizadas por mí como tutora y el resto del equipo docente que imparte clase en mi aula.</p>
+<p>Justificación de mi elección:</p>
+<p>Genially es muy versátil, nos permite realizar actividades interactivas y animados, realizar presentaciones, infografías, juegos, presentaciones muy adaptado al nivel de educación infantil y todo sin la necesidad de muchos conocimientos informáticos. Es una herramienta muy intuitiva.<br />Contexto y disponibilidad en el centro: En el centro todas las aulas disponen de ordenadores conectados a internet y pizarra digital. Son las herramientas esenciales para poder realizar todos los Genially para nuestra aula.<br />Edad, características y nivel competencial: Genially al ser un recurso muy intuitivo permite adaptarse a cualquier nivel educativo. El alumnado de infantil no posee conocimientos tecnológicos,  no más allá de darle a un botón son su dedo, pero es gracias a los docentes y con la utilización de los recursos, más adecuado y adaptados a sus características, este caso un Genially, donde el alumnado se introduce en la tecnología. </p>
+<p>El producto final de la situación de aprendizaje “Alimentación  Saludable”: La base de una vida sana, para mi alumnado de 3 años, será la creación de un Genially. Nos servirá como recurso interactivo para que el alumnado pueda reflexionar sobre todo lo aprendido en las diferentes fases del proyecto. Esta herramienta de aprendizaje al resultar atractiva y divertida, ayudará a afianzar los contenidos expuestos por nuestros pequeños expertos. Incorporaré todas las temáticas de nuestro proyecto de forma atractiva mediante vídeos, animaciones…, proyectando el Genially en la pizarra digital que tenemos en nuestra aula.</p>
+<p>También utilizaremos Canva para crear diferentes juegos e infografías sobre las frutas y verduras, todos los alimentos que componen la pirámide alimenticia y vocabulario… ya que como comenté en mi rutina de pensamiento, el alumnado muestra gran motivación y disposición ante este tipo de actividades.</p>
+<p>Resumiendo, Genially es un recurso que nos permite realizar actividades motivadoras, divertidas y adaptadas al nivel de infantil.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777372910041-e21ii4ywj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola,  compañeros y compañeros: </p>\n<p><br />Las herramientas que utilizaré en el producto final de mi situación de aprendizaje para el alumnado de infantil, estarán siempre supervisadas y organizadas por mí como tutora y el resto del equipo docente que imparte clase en mi aula.</p>\n<p>Justificación de mi elección:</p>\n<p>Genially es muy versátil, nos permite realizar actividades interactivas y animados, realizar presentaciones, infografías, juegos, presentaciones muy adaptado al nivel de educación infantil y todo sin la necesidad de muchos conocimientos informáticos. Es una herramienta muy intuitiva.<br />Contexto y disponibilidad en el centro: En el centro todas las aulas disponen de ordenadores conectados a internet y pizarra digital. Son las herramientas esenciales para poder realizar todos los Genially para nuestra aula.<br />Edad, características y nivel competencial: Genially al ser un recurso muy intuitivo permite adaptarse a cualquier nivel educativo. El alumnado de infantil no posee conocimientos tecnológicos,  no más allá de darle a un botón son su dedo, pero es gracias a los docentes y con la utilización de los recursos, más adecuado y adaptados a sus características, este caso un Genially, donde el alumnado se introduce en la tecnología. </p>\n<p>El producto final de la situación de aprendizaje “Alimentación  Saludable”: La base de una vida sana, para mi alumnado de 3 años, será la creación de un Genially. Nos servirá como recurso interactivo para que el alumnado pueda reflexionar sobre todo lo aprendido en las diferentes fases del proyecto. Esta herramienta de aprendizaje al resultar atractiva y divertida, ayudará a afianzar los contenidos expuestos por nuestros pequeños expertos. Incorporaré todas las temáticas de nuestro proyecto de forma atractiva mediante vídeos, animaciones…, proyectando el Genially en la pizarra digital que tenemos en nuestra aula.</p>\n<p>También utilizaremos Canva para crear diferentes juegos e infografías sobre las frutas y verduras, todos los alimentos que componen la pirámide alimenticia y vocabulario… ya que como comenté en mi rutina de pensamiento, el alumnado muestra gran motivación y disposición ante este tipo de actividades.</p>\n<p>Resumiendo, Genially es un recurso que nos permite realizar actividades motivadoras, divertidas y adaptadas al nivel de infantil.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moshtgwz-y1dw9626p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moshtgwz-y1dw9626p</odePageId>
+      <odeBlockId>block-1777372951775-048ocyv31</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgwz-y1dw9626p</odePageId>
+          <odeBlockId>block-1777372951775-048ocyv31</odeBlockId>
+          <odeIdeviceId>idevice-1777372951773-a61zgl4h4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/mmarcar856/trabajo-diario-clbrphrhwtvbkhl9" title="">https://padlet.com/mmarcar856/trabajo-diario-clbrphrhwtvbkhl9</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777372951773-a61zgl4h4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/mmarcar856/trabajo-diario-clbrphrhwtvbkhl9\" title=\"\">https://padlet.com/mmarcar856/trabajo-diario-clbrphrhwtvbkhl9</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moshtgwz-y1dw9626p</odePageId>
+      <odeBlockId>block-1777373016732-rlyjdix7g</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgwz-y1dw9626p</odePageId>
+          <odeBlockId>block-1777373016732-rlyjdix7g</odeBlockId>
+          <odeIdeviceId>idevice-1777373016730-pcznj72vt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://notebooklm.google.com/notebook/62649cf5-a28e-42dd-b348-5023af79b06b" title="">https://notebooklm.google.com/notebook/62649cf5-a28e-42dd-b348-5023af79b06b</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777373016730-pcznj72vt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://notebooklm.google.com/notebook/62649cf5-a28e-42dd-b348-5023af79b06b\" title=\"\">https://notebooklm.google.com/notebook/62649cf5-a28e-42dd-b348-5023af79b06b</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moshtgwz-y1dw9626p</odePageId>
+      <odeBlockId>block-1777373045372-wdojxwnfz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgwz-y1dw9626p</odePageId>
+          <odeBlockId>block-1777373045372-wdojxwnfz</odeBlockId>
+          <odeIdeviceId>idevice-1777373045368-7g78ysimw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/mmarcar856/alimentaci-n-saludable-la-base-de-una-vida-sana-mbfjimlptjwno866" title="">https://padlet.com/mmarcar856/alimentaci-n-saludable-la-base-de-una-vida-sana-mbfjimlptjwno866</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777373045368-7g78ysimw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/mmarcar856/alimentaci-n-saludable-la-base-de-una-vida-sana-mbfjimlptjwno866\" title=\"\">https://padlet.com/mmarcar856/alimentaci-n-saludable-la-base-de-una-vida-sana-mbfjimlptjwno866</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moshtgwz-jjr8cjcss</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal que presenta de forma organizada las actividades y tareas del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal que presenta de forma organizada las actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal que presenta de forma organizada las actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moshtgwz-jjr8cjcss</odePageId>
+      <odeBlockId>block-1777373168729-1hn3ylpml</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgwz-jjr8cjcss</odePageId>
+          <odeBlockId>block-1777373168729-1hn3ylpml</odeBlockId>
+          <odeIdeviceId>idevice-1777373168726-rb75oow41</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777373168726-rb75oow41" title="" href="{{context_path}}/content/resources/7.1 Línea del tiempo (1)_00001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/7.1 Línea del tiempo (1)_00001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777373168726-rb75oow41","img_0":{"img":"{{context_path}}/content/resources/7.1 Línea del tiempo (1)_00001.jpg","thumbnail":"{{context_path}}/content/resources/7.1 Línea del tiempo (1)_00001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moshtgx0-se36s1z0z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación asociados a las actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moshtgx0-se36s1z0z</odePageId>
+      <odeBlockId>block-1777373371026-gm3qfocx8</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgx0-se36s1z0z</odePageId>
+          <odeBlockId>block-1777373371026-gm3qfocx8</odeBlockId>
+          <odeIdeviceId>idevice-1777373371025-5jynkyeed</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777373371025-5jynkyeed" title="" href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777373371025-5jynkyeed" title="" href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00002.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00002.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777373371025-5jynkyeed" title="" href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00003.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00003.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1777373371025-5jynkyeed" title="" href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00004.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00004.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1777373371025-5jynkyeed" title="" href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00005.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00005.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1777373371025-5jynkyeed" title="" href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00006.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00006.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_6" class="imageContainer"> <a idevice-id="idevice-1777373371025-5jynkyeed" title="" href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00007.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00007.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777373371025-5jynkyeed","img_0":{"img":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00001.jpg","thumbnail":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00002.jpg","thumbnail":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00002.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00003.jpg","thumbnail":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00003.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00004.jpg","thumbnail":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00004.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00005.jpg","thumbnail":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00005.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00006.jpg","thumbnail":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00006.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00007.jpg","thumbnail":"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluaciÃ³n (1)_00007.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moshtgx0-gko851pfb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moshtgx0-gko851pfb</odePageId>
+      <odeBlockId>block-1777373588485-79d2a68q8</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moshtgx0-gko851pfb</odePageId>
+          <odeBlockId>block-1777373588485-79d2a68q8</odeBlockId>
+          <odeIdeviceId>idevice-1777373588482-fbyz83vyg</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777373588482-fbyz83vyg" title="" href="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777373588482-fbyz83vyg" title="" href="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0002.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0002.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777373588482-fbyz83vyg" title="" href="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0003.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0003.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1777373588482-fbyz83vyg" title="" href="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0004.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0004.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1777373588482-fbyz83vyg" title="" href="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0005.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0005.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777373588482-fbyz83vyg","img_0":{"img":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0002.jpg","thumbnail":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0002.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0003.jpg","thumbnail":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0003.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0004.jpg","thumbnail":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0004.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0005.jpg","thumbnail":"{{context_path}}/content/resources/8.1 Elegimos y creamos los instrumentos de evaluación  (1)_page-0005.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
